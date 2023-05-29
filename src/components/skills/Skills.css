@@ -1,0 +1,37 @@
+
+.skill-header{
+    text-align: center;
+    font-family: 'Cascadia Mono', sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    color: rgb(3, 173, 173);
+}
+.skill-paragraph{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    color: rgb(167, 167, 167);
+}
+.skill-div{
+    margin: 30px;
+    padding: 20px;
+    background-color: #081525;
+    border-radius: 20px;
+}
+.main-header{
+    text-align: center;
+    font-size: 60px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+}
+.main-template{
+    display: grid;
+    grid-template-columns: 45% 45%;
+}
+.skill-icon{
+    width: 200px;
+    margin-left: 150px;
+}

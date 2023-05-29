@@ -1,0 +1,16 @@
+.icon{
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    transition: all 0.15s;
+}
+.icon:hover{
+    cursor: pointer;
+    transform: rotate(15deg);
+    width: 80px;
+    height: 80px;
+    margin-bottom: 30px;
+    opacity: 0.75;
+}
