@@ -2,14 +2,18 @@ import React from 'react'
 import './Contact.css'
 import discord from './mediaicons/icons8-discord-48.png'
 import instagram from './mediaicons/icons8-instagram-48.png'
+import gmail from './mediaicons/icons8-gmail-48.png'
+import phoneNumber from './mediaicons/icons8-phone-number-48.png'
 
 function Contact() {
   return (
     <section id='contact'>
-        <p className='title'>Get in touch:</p>
+        <p className='title'>Socials:</p>
         <div className='contact-container'>
             <div className='info-container'>
+                <img className="contact-icon" src={gmail} />  
                 <p className='contact-info'>ayouubyysaidyy@gmail.come</p>
+                <img className="contact-icon" src={phoneNumber} /> 
                 <p className='contact-info'>+21629329814</p>
             </div>
             <div className='socials-container'>

@@ -9,7 +9,7 @@
     padding: 20px;
     border-radius: 20px;
 }
-.socials-container{
+.socials-container, .info-container{
     display: grid;
     grid-template-columns: 70px 1fr;
 }
