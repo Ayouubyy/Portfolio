@@ -4,11 +4,11 @@ import Introduction from './components/introduction/Introduction.js';
 import Header from './components/header/Header';
 import Skills from './components/skills/Skills';
 import ContactIcons from './components/contacticons/ContactIcons';
+import Contact from './components/contact/Contact';
 
 function App() {
   return (
     <div className="App">
-      <title>Ayoub Said</title>
       <Header />
       <div className='template'>
         <div>
@@ -18,6 +18,7 @@ function App() {
           <Introduction />
           <About />
           <Skills />
+          <Contact />
         </div>
       </div>
     </div>

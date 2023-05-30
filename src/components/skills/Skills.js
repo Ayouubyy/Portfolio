@@ -9,9 +9,9 @@ import java from "./icons/java.png"
 
 function Skills() {
   return (
-    <section> 
-        <p className="main-header" id='skills'>Skills:</p>
-        <div className='main-template'>        
+    <section id='skills'> 
+        <p className="main-header">Skills:</p>
+        <div className='main-template'>       
         <div className="skill-div">
             <img className='skill-icon' src={programming}/>
             <h3 className="skill-header">Programming languages:</h3>

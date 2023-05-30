@@ -1,6 +1,5 @@
 .header{
-    display: grid;
-    grid-template-columns: 900px 1fr 1fr 1fr;
+    display: flex;
     position: fixed;
 }
 .menu-button {
@@ -15,7 +14,7 @@
     margin-right: 20px;
     margin-top: 10px;
     margin-left: 20px;
-    transition: all 0.15s;
+    transition: all 0.3s;
     width: 170px;
 }
 .menu-button:hover {
