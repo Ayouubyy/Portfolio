@@ -11,6 +11,10 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+p, h3, button{
+    font-family: Kanit;
+}
+  
 .my-image{
     margin-top: 140px;
     width: 400px;
@@ -48,5 +52,5 @@
     font-size: 24px;
     margin-top: 0px;
     color: rgb(126, 126, 126);
-
+    text-align: justify;
 }

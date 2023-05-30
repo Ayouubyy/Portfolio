@@ -4,7 +4,7 @@ import programming from "./icons/programming.png"
 import database from "./icons/database.png"
 import webdevelopment from "./icons/webdevelopment.png"
 import unity from "./icons/unity.png"
-import paper from "./icons/paper.webp"
+import minecraft from "./icons/minecraft.png"
 import java from "./icons/java.png"
 
 function Skills() {
@@ -28,7 +28,7 @@ function Skills() {
             <p className="skill-paragraph">I have a solid foundation in web development and can build responsive, user-friendly websites using HTML, CSS, and JavaScript. I am familiar with modern web development frameworks such as React and Angular, and have experience working with web development tools like Webpack and Babel.</p>
         </div>
         <div className="skill-div">
-            <img className='skill-icon' src={paper}/>
+            <img className='skill-icon' src={minecraft}/>
             <h3 className="skill-header">Minecraft plugin development:</h3>
             <p className="skill-paragraph">I have experience developing custom Minecraft plugins using the Spigot/Paper API. I have collaborated with prominent servers and content creators to create successful, large-scale projects. I am familiar with plugin architecture and have experience optimizing plugins for performance.</p>
         </div>
