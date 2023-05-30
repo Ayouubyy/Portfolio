@@ -12,7 +12,7 @@ function Contact() {
         <div className='contact-container'>
             <div className='info-container'>
                 <img className="contact-icon" src={gmail} />  
-                <p className='contact-info'>ayoubyysaidyy@gmail.come</p>
+                <p className='contact-info'>ayoubyysaidyy@gmail.com</p>
                 <img className="contact-icon" src={phoneNumber} /> 
                 <p className='contact-info'>+21629329814</p>
             </div>
