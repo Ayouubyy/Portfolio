@@ -17,8 +17,8 @@ function Contact() {
                 <p className='contact-info'>+21629329814</p>
             </div>
             <div className='socials-container'>
-                <img className="contact-icon" onClick={() => navigator.clipboard.writeText('Ayouub#5449')} title="Click to copy!" src={discord} />
-                <p className='contact-info' title="Click to copy!" onClick={() => navigator.clipboard.writeText('Ayouub#5449')}>Ayouub#5449</p>
+                <img className="contact-icon" onClick={() => navigator.clipboard.writeText('ayouubyy')} title="Click to copy!" src={discord} />
+                <p className='contact-info' title="Click to copy!" onClick={() => navigator.clipboard.writeText('ayouubyy')}>ayouubyy</p>
                 <a href='https://www.instagram.com/ayoub_saidyy/'><img className="contact-icon" src={instagram} /></a>
                 <a href='https://www.instagram.com/ayoub_saidyy/'><p className='contact-info'>ayoub_saidyy</p></a>
             </div>
