@@ -10,8 +10,7 @@ function Introduction() {
         <p className="name">Ayoub Said.</p>
         <p className="slogan">I build Plugins.</p>
         <p className="description">
-        I am an experienced software developer with a passion for creating efficient and effective solutions. Over the past two years, I have designed and implemented numerous projects, including over 50 custom Minecraft plugins using the Spigot/Paper API. I have collaborated with prominent servers and content creators to create successful, large-scale projects.
-        I am a creative problem-solver who is dedicated to delivering high-quality solutions. I have a strong understanding of project management, from ideation to delivery. My experience collaborating with others and delivering successful projects make me an asset to any development team.
+        I am an experienced software developer with a passion for creating efficient and effective solutions. Over the past four years, I have designed and implemented numerous projects, including over 50 custom Minecraft plugins using the Spigot/Paper API. I have collaborated with prominent servers and content creators to create successful, large-scale projects.
         </p>
       </div>
       </div>
